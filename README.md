@@ -1,4 +1,4 @@
-### Howdy!
+### howdy! :cowboy_hat_face:
 
 - :office: [LinkedIn](https://www.linkedin.com/in/ashelane)
 
