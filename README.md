@@ -8,3 +8,4 @@
 
 #### Credits
 [github-readme-stats by anuraghazra](https://github.com/ashexs/github-readme-stats)
+[donate-with-paypal by andreostrovsky](https://github.com/andreostrovsky/donate-with-paypal)
